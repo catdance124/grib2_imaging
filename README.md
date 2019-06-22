@@ -1,6 +1,8 @@
 grib2_dec
 ===
 気象庁が配布する`grib2_dec`を用いてPNG画像を作成するスクリプト
+サンプル  
+![](Z__C_RJTD_20101231150000_SRF_GPV_Ggis1km_Prr60lv_ANAL_0.png)
 # メモ
 - 32bit Linuxでmake & executeするとうまくいく
   - 64bitだとsegmentation fault...
